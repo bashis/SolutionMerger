@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\SolutionMergerV2\SolutionMergerV2\bin\Debug\SolutionMergerV2.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SolutionMergerV2\SolutionMergerV2\bin\Debug\SolutionMergerV2.exe
+c:\users\user\documents\visual studio 2013\Projects\SolutionMergerV2\SolutionMergerV2\bin\Debug\SolutionMergerV2.pdb
+c:\users\user\documents\visual studio 2013\Projects\SolutionMergerV2\SolutionMergerV2\obj\Debug\SolutionMergerV2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SolutionMergerV2\SolutionMergerV2\obj\Debug\SolutionMergerV2.exe
+c:\users\user\documents\visual studio 2013\Projects\SolutionMergerV2\SolutionMergerV2\obj\Debug\SolutionMergerV2.pdb
